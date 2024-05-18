@@ -17,12 +17,26 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_TVI.png",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI0IDQ6NTo0NyBQTSZoYXNoX3ZhbHVlPVNtSnprSzg0YlpzT2NHL0hMeis4K0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kNDQ0YjI1MS1iNzM0LTQzY2QtOTBjNy03MDk1MzFhYzNiZDE=/
 
-#EXTINF:-1 group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP3.png",RTP 3
+#EXTINF:-1 group-title="Noticias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Notícias" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_SICN.png",SIC Notícias
+#EXTINF:-1 group-title="Noticias" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_SICN.png",SIC Notícias
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_CNNP.png",CNN Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI0IDY6OTozMyBBTSZoYXNoX3ZhbHVlPVA4UDF5b2Rpbm92dXFla0ZaSjhHOXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wODNkNjQ5Yi1lNDJiLTQ4MDktYjcxNy02NGE5Yjg1OWI0MDY=/
+
+#EXTINF:-1 group-title="Noticias" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_euronews.png",Euronews PT
+https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
+
+#EXTINF:-1 group-title="Governo" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_ARTV.png",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTPMemoria.png",RTP Memória
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
