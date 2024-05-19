@@ -61,3 +61,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Generalista" tvg-id="TVIInt.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_TVInternacional.png",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI0IDY6OTozNCBBTSZoYXNoX3ZhbHVlPWM1aWZ5bE5zTld2eUNPVmd6M3VJTlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNDM5NzQwMC1lM2UzLTQ4YzUtOTIxNi02NDI4OTJmM2IzNjU=/
+
+#EXTINF:-1 group-title="Generalista" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_TVIafrica.png",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalista" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_TVIficcao.png",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_TVIreality.png",TVI Reality
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDI6NjoxMyBQTSZoYXNoX3ZhbHVlPUR0OXpCL212cEYyWUJJcURGOFdpbXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MDJiZjkzOC04Njk5LTQ3MjgtOWRiNC01NDEyMTVkOTA5ODE=/
+
